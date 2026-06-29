@@ -1,0 +1,26 @@
+{
+  "name": "cyborg-x-landing",
+  "version": "1.0.0",
+  "description": "Production-ready cyberpunk landing page — HTML5 · CSS3 · Vanilla JS",
+  "private": true,
+  "scripts": {
+    "start": "npx serve . --listen 3000",
+    "dev":   "npx serve . --listen 3000",
+    "build": "echo 'Static site — no build step required.'",
+    "lint":  "npx htmlhint index.html && npx stylelint css/**/*.css"
+  },
+  "keywords": [
+    "landing-page", "cyberpunk", "cyborg", "dark-theme",
+    "neon", "glassmorphism", "responsive", "vanilla-js"
+  ],
+  "author": "Cyborg X Development Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/cyborg-landing"
+  },
+  "homepage": "https://your-username.github.io/cyborg-landing",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

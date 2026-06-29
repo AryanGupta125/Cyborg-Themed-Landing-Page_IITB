@@ -1,0 +1,20 @@
+{
+  "name": "CYBORG X — Future of Human Evolution",
+  "short_name": "CYBORG X",
+  "description": "Experience the next evolution of human-machine integration.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#07070d",
+  "theme_color": "#00f0ff",
+  "lang": "en",
+  "categories": ["technology", "productivity"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='45' fill='none' stroke='%2300f0ff' stroke-width='3'/><circle cx='50' cy='50' r='20' fill='none' stroke='%2300f0ff' stroke-width='2'/><circle cx='50' cy='50' r='8' fill='%2300f0ff'/></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

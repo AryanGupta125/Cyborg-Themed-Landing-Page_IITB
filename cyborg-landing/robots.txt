@@ -1,0 +1,22 @@
+# cyborg-landing — robots.txt
+
+User-agent: *
+Allow: /
+Disallow: /private/
+
+Sitemap: https://www.cyborgx.io/sitemap.xml
+
+# Googlebot
+User-agent: Googlebot
+Allow: /
+
+# Bingbot
+User-agent: Bingbot
+Allow: /
+
+# Block AI training crawlers (optional)
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
